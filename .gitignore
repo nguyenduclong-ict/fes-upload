@@ -19,7 +19,7 @@ config/index.js
 public/pages
 
 # upload
-upload/
+/upload
 
 # vscode
 .vscode/
